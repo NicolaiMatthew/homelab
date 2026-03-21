@@ -27,7 +27,7 @@ Every decision in this build was made deliberately — from choosing unprivilege
 | **CPU** | Intel Core i5/i7 8th/9th Gen (QuickSync capable) |
 | **Hypervisor** | Proxmox VE 9.x |
 | **Primary Storage** | Local SSD (Proxmox OS + LXC rootfs) |
-| **Media Storage** | Terramaster D4-320 DAS — 2x4TB HDD → 7.3TB LVM volume |
+| **Media Storage** | Terramaster D4-320 DAS - 2x4TB HDD → 7.3TB LVM volume |
 
 ---
 
