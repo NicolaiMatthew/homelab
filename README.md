@@ -13,6 +13,8 @@
 ## 📝 Writing
 
 - [How I Built a Production-Grade Homelab on a $200 Mini PC](https://dev.to/nicolaimatthew/how-i-built-a-production-grade-homelab-on-a-200-mini-pc-2154)
+
+
 ## 📋 Overview
 
 This homelab runs on a **Lenovo ThinkCentre M920q** and serves as a practical environment for developing and demonstrating skills in Linux administration, containerization, infrastructure monitoring, and DevOps practices.
